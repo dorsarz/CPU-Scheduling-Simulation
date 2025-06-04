@@ -54,3 +54,6 @@ make
 
 ./scheduler
 
+
+# خروجی نهایی باید چیزی مثل عکس زیر باشد:
+![Screenshot 2025-06-04 at 8 04 00 PM](https://github.com/user-attachments/assets/575c8689-1b5f-4f62-9ac6-1526b7176c06)
